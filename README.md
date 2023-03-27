@@ -7,8 +7,6 @@
 
 I'm a Data Engineer with extensive experience building and maintaining scalable data infrastructure. Besides programming, I'm also interested in Systems Design and DevOps. I'm passionate about building scalable and reliable systems that stand the test of time!
 
-to help make this world a better place with one commit at time. 
-
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working as Data Engineer 
 - 🌱 My areas of interests is Data Engineering, DevOps and Systems Design
